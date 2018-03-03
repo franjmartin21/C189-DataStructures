@@ -1,0 +1,6 @@
+- HashcodeFunctions shows correct ways to generate hashcode from different kind of data (String and primitive values)
+
+- TestHashFunctions is a class created to test the hash functions of the class HashcodeFunctions
+
+- HashTableFunction is a class created to show how to get the index where a data needs to be stored depending of its hashcode
+

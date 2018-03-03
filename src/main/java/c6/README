@@ -1,0 +1,6 @@
+- DequeInterface shows the typical methods of a Deque ADT
+
+- DequeExample tests the behaviour of a Deque
+
+- LinkedDeque, Shows an implementation using DoublyLinked implementation. The reason for this is because we must be able to add and remove from the front and tail of the queue (For queue we just needed to add new elements in the tail and remove from the front, so we did not
+need a DoublyLinked chain, singly linked chain was enough)

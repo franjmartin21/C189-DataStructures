@@ -1,0 +1,10 @@
+- BagInterface is the example of Interface for Bag in java provided in 1.2
+
+- OnlineShopper is the example of how to use a Bag in java, the example is provided in 1.3
+
+- PiggyBank and PiggyBankExample show another example of using Bag. Example provided in 1.3
+
+- ArrayBag shows the implementation step by step provided in the book. 1.4, 1.5 ...
+
+- ArrayBagDemo tests the methods of the Bag
+

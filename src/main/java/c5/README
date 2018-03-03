@@ -1,0 +1,13 @@
+- QueueInterface shows the usual methods of a Queue
+
+- QueueExample shows an example of usage of a queue
+
+- WaitLine is another example of usage of a queue
+
+- StockLedger is another example of the book of a usage of a queue
+
+- LinkedQueue shows an implementation of Queue using Linked allocation
+
+- ArrayQueue shows an implementation of Queue using an array. This has the particularity of using a circualar array, which makes interesting how to calculate an empty and full array without using a counter.
+
+

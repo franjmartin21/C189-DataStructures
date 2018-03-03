@@ -1,0 +1,4 @@
+- LinkedBag implements Bag using linked allocation
+
+- LinkedBagDemo1 is a file provided by the material of the course to test LinkedBag
+

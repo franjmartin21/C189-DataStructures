@@ -1,0 +1,8 @@
+- BinaryNode and BinaryNodeInterface show the interface and class that implements a BinaryNode for a BinaryTree
+
+- TreeInterface shows the basic methods that support a Tree
+
+- TreeIteratorInterface shows the method that return an Iterator with a way to traverse the tree, it has a method for each of
+the four main ways to traverse a Tree
+
+-
